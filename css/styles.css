@@ -1,0 +1,30 @@
+body {
+  font-family: "Playfair Display", serif !important;
+  background-color: #f2e9e4 !important;
+}
+
+.text-navy,
+.text-body-emphasis,
+.display-5,
+h1,
+h2,
+h3,
+h4,
+p {
+  color: #4a4e69 !important;
+}
+
+.input-group,
+.form-control,
+.form-select {
+  background-color: #f2e9e4 !important;
+  border: #4a4e69 !important;
+  color: #4a4e69 !important;
+  border-radius: 0% !important;
+}
+
+.btn-primary {
+  background-color: #9a8c98 !important;
+  border: #9a8c98 !important;
+  border-radius: 2px;
+}
